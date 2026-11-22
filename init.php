@@ -4,7 +4,8 @@
  * Plugin Name: Elementor Addons by Emission Softwares
  * Description: Elegant quality elementor addons increasing the facility of your elementor plugin.
  * Author: Mahim Zaman
- * Author URI: https://www.mahimzaman.com
+ * Plugin URI: https://condixia.com
+ * Author URI: https://mahimzaman.com
  * Version: 0.9.0
  * Text Domain: es-ele-addons
  * Domain Path: /languages
