@@ -1,4 +1,4 @@
-# Elementor Addons by Emission Softwares
+# Elementor Addons by Condixia
 
 Development scaffold for custom Elementor widgets.
 

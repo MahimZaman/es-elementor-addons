@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Elementor Addons by Emission Softwares
+ * Plugin Name: Elementor Addons by Condixia
  * Description: Elegant quality elementor addons increasing the facility of your elementor plugin.
  * Author: Mahim Zaman
  * Plugin URI: https://condixia.com
